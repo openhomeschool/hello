@@ -41,7 +41,7 @@ pi@pineapple:~ $ cd ohs
 
 But I'll tend to just show what you type, and leave off the prompt itself.
 
-No type, and press "Enter" after:
+Now type, and press "Enter" after:
 
 ```sh
 cd hello
