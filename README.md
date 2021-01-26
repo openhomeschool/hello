@@ -88,7 +88,13 @@ python code and obeys them**.  Your "prompt" now looks like three sideways carro
 show, here, but you just type what's after them:
 
 ```sh
->>> print("Hello") # or you can: print("hello, it's nice seeing you today!")
+>>> print("Hello")
+```
+
+Or you could:
+
+```sh
+>>> print("hello, it's nice seeing you today!")
 ```
 
 And push "Enter".  You'll see about the same thing you saw when you ran `python hello.py`, above. 
